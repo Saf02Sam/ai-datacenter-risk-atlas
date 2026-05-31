@@ -1,0 +1,805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.04,
+          32.897
+        ]
+      },
+      "properties": {
+        "name": "Equinix DA1",
+        "city": "Dallas",
+        "country": "USA",
+        "tier": 4,
+        "mw": 150,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.886,
+          37.338
+        ]
+      },
+      "properties": {
+        "name": "Equinix SV1",
+        "city": "San Jose",
+        "country": "USA",
+        "tier": 4,
+        "mw": 200,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.006,
+          40.713
+        ]
+      },
+      "properties": {
+        "name": "Equinix NY2",
+        "city": "New York",
+        "country": "USA",
+        "tier": 4,
+        "mw": 180,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332,
+          47.606
+        ]
+      },
+      "properties": {
+        "name": "Equinix SE2",
+        "city": "Seattle",
+        "country": "USA",
+        "tier": 3,
+        "mw": 120,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.63,
+          41.878
+        ]
+      },
+      "properties": {
+        "name": "Equinix CH1",
+        "city": "Chicago",
+        "country": "USA",
+        "tier": 4,
+        "mw": 160,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.037,
+          38.907
+        ]
+      },
+      "properties": {
+        "name": "Equinix DC2",
+        "city": "Washington DC",
+        "country": "USA",
+        "tier": 4,
+        "mw": 140,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.244,
+          34.052
+        ]
+      },
+      "properties": {
+        "name": "Equinix LA1",
+        "city": "Los Angeles",
+        "country": "USA",
+        "tier": 3,
+        "mw": 110,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.137,
+          36.175
+        ]
+      },
+      "properties": {
+        "name": "Switch SUPERNAP",
+        "city": "Las Vegas",
+        "country": "USA",
+        "tier": 4,
+        "mw": 250,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.074,
+          33.449
+        ]
+      },
+      "properties": {
+        "name": "Microsoft Phoenix",
+        "city": "Phoenix",
+        "country": "USA",
+        "tier": 4,
+        "mw": 300,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.861,
+          41.262
+        ]
+      },
+      "properties": {
+        "name": "Google Council Bluffs",
+        "city": "Council Bluffs",
+        "country": "USA",
+        "tier": 4,
+        "mw": 400,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.868,
+          35.831
+        ]
+      },
+      "properties": {
+        "name": "Meta Forest City",
+        "city": "Forest City",
+        "country": "USA",
+        "tier": 4,
+        "mw": 350,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7,
+          45.84
+        ]
+      },
+      "properties": {
+        "name": "Amazon Boardman",
+        "city": "Boardman",
+        "country": "USA",
+        "tier": 4,
+        "mw": 280,
+        "water_stress": 2.8,
+        "carbon_gco2_kwh": 386,
+        "risk_score": 0.521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.347,
+          43.651
+        ]
+      },
+      "properties": {
+        "name": "Equinix TR1",
+        "city": "Toronto",
+        "country": "Canada",
+        "tier": 3,
+        "mw": 90,
+        "water_stress": 1.2,
+        "carbon_gco2_kwh": 130,
+        "risk_score": 0.201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.588,
+          45.508
+        ]
+      },
+      "properties": {
+        "name": "Cologix MTL",
+        "city": "Montreal",
+        "country": "Canada",
+        "tier": 3,
+        "mw": 80,
+        "water_stress": 1.2,
+        "carbon_gco2_kwh": 130,
+        "risk_score": 0.201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.895,
+          52.37
+        ]
+      },
+      "properties": {
+        "name": "Equinix AM1",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "tier": 4,
+        "mw": 200,
+        "water_stress": 2.1,
+        "carbon_gco2_kwh": 298,
+        "risk_score": 0.396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.682,
+          50.11
+        ]
+      },
+      "properties": {
+        "name": "Equinix FR2",
+        "city": "Frankfurt",
+        "country": "Germany",
+        "tier": 4,
+        "mw": 220,
+        "water_stress": 1.8,
+        "carbon_gco2_kwh": 385,
+        "risk_score": 0.421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118,
+          51.509
+        ]
+      },
+      "properties": {
+        "name": "Equinix LD4",
+        "city": "London",
+        "country": "UK",
+        "tier": 4,
+        "mw": 190,
+        "water_stress": 1.5,
+        "carbon_gco2_kwh": 233,
+        "risk_score": 0.296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352,
+          48.857
+        ]
+      },
+      "properties": {
+        "name": "Equinix PA3",
+        "city": "Paris",
+        "country": "France",
+        "tier": 4,
+        "mw": 170,
+        "water_stress": 1.9,
+        "carbon_gco2_kwh": 85,
+        "risk_score": 0.243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.065,
+          59.333
+        ]
+      },
+      "properties": {
+        "name": "Equinix SK1",
+        "city": "Stockholm",
+        "country": "Sweden",
+        "tier": 3,
+        "mw": 100,
+        "water_stress": 0.8,
+        "carbon_gco2_kwh": 45,
+        "risk_score": 0.108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.37,
+          50.478
+        ]
+      },
+      "properties": {
+        "name": "Hetzner FSN",
+        "city": "Falkenstein",
+        "country": "Germany",
+        "tier": 2,
+        "mw": 50,
+        "water_stress": 1.8,
+        "carbon_gco2_kwh": 385,
+        "risk_score": 0.421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.752,
+          59.913
+        ]
+      },
+      "properties": {
+        "name": "DigiPlex Oslo",
+        "city": "Oslo",
+        "country": "Norway",
+        "tier": 3,
+        "mw": 75,
+        "water_stress": 0.5,
+        "carbon_gco2_kwh": 26,
+        "risk_score": 0.066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.704,
+          40.417
+        ]
+      },
+      "properties": {
+        "name": "Equinix MD1",
+        "city": "Madrid",
+        "country": "Spain",
+        "tier": 3,
+        "mw": 95,
+        "water_stress": 3.4,
+        "carbon_gco2_kwh": 193,
+        "risk_score": 0.461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.381,
+          43.297
+        ]
+      },
+      "properties": {
+        "name": "Interxion MRS",
+        "city": "Marseille",
+        "country": "France",
+        "tier": 3,
+        "mw": 85,
+        "water_stress": 1.9,
+        "carbon_gco2_kwh": 85,
+        "risk_score": 0.243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012,
+          52.23
+        ]
+      },
+      "properties": {
+        "name": "Equinix WA1",
+        "city": "Warsaw",
+        "country": "Poland",
+        "tier": 3,
+        "mw": 70,
+        "water_stress": 2.0,
+        "carbon_gco2_kwh": 635,
+        "risk_score": 0.597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.85,
+          1.29
+        ]
+      },
+      "properties": {
+        "name": "Equinix SG1",
+        "city": "Singapore",
+        "country": "Singapore",
+        "tier": 4,
+        "mw": 210,
+        "water_stress": 1.6,
+        "carbon_gco2_kwh": 408,
+        "risk_score": 0.415
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692,
+          35.689
+        ]
+      },
+      "properties": {
+        "name": "Equinix TY2",
+        "city": "Tokyo",
+        "country": "Japan",
+        "tier": 4,
+        "mw": 230,
+        "water_stress": 1.4,
+        "carbon_gco2_kwh": 471,
+        "risk_score": 0.434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.209,
+          -33.869
+        ]
+      },
+      "properties": {
+        "name": "Equinix SY1",
+        "city": "Sydney",
+        "country": "Australia",
+        "tier": 4,
+        "mw": 160,
+        "water_stress": 3.1,
+        "carbon_gco2_kwh": 506,
+        "risk_score": 0.626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.17,
+          22.319
+        ]
+      },
+      "properties": {
+        "name": "Equinix HK1",
+        "city": "Hong Kong",
+        "country": "Hong Kong",
+        "tier": 4,
+        "mw": 180,
+        "water_stress": 2.3,
+        "carbon_gco2_kwh": 570,
+        "risk_score": 0.586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.566
+        ]
+      },
+      "properties": {
+        "name": "Equinix SE1",
+        "city": "Seoul",
+        "country": "South Korea",
+        "tier": 4,
+        "mw": 175,
+        "water_stress": 2.6,
+        "carbon_gco2_kwh": 436,
+        "risk_score": 0.532
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.878,
+          19.076
+        ]
+      },
+      "properties": {
+        "name": "NTT Mumbai",
+        "city": "Mumbai",
+        "country": "India",
+        "tier": 3,
+        "mw": 120,
+        "water_stress": 4.2,
+        "carbon_gco2_kwh": 632,
+        "risk_score": 0.815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.27,
+          13.083
+        ]
+      },
+      "properties": {
+        "name": "NTT Chennai",
+        "city": "Chennai",
+        "country": "India",
+        "tier": 3,
+        "mw": 90,
+        "water_stress": 4.2,
+        "carbon_gco2_kwh": 632,
+        "risk_score": 0.815
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.474,
+          31.228
+        ]
+      },
+      "properties": {
+        "name": "GDS Shanghai",
+        "city": "Shanghai",
+        "country": "China",
+        "tier": 4,
+        "mw": 300,
+        "water_stress": 3.3,
+        "carbon_gco2_kwh": 581,
+        "risk_score": 0.693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.391,
+          39.905
+        ]
+      },
+      "properties": {
+        "name": "GDS Beijing",
+        "city": "Beijing",
+        "country": "China",
+        "tier": 4,
+        "mw": 280,
+        "water_stress": 3.3,
+        "carbon_gco2_kwh": 581,
+        "risk_score": 0.693
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.697,
+          3.149
+        ]
+      },
+      "properties": {
+        "name": "Equinix KL1",
+        "city": "Kuala Lumpur",
+        "country": "Malaysia",
+        "tier": 3,
+        "mw": 95,
+        "water_stress": 1.1,
+        "carbon_gco2_kwh": 549,
+        "risk_score": 0.453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.271,
+          25.205
+        ]
+      },
+      "properties": {
+        "name": "Equinix DX1",
+        "city": "Dubai",
+        "country": "UAE",
+        "tier": 4,
+        "mw": 130,
+        "water_stress": 4.8,
+        "carbon_gco2_kwh": 527,
+        "risk_score": 0.809
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.05,
+          -26.205
+        ]
+      },
+      "properties": {
+        "name": "Africa Data Centres",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "tier": 3,
+        "mw": 60,
+        "water_stress": 3.6,
+        "carbon_gco2_kwh": 753,
+        "risk_score": 0.831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.034,
+          -26.196
+        ]
+      },
+      "properties": {
+        "name": "Equinix JH1",
+        "city": "Johannesburg",
+        "country": "South Africa",
+        "tier": 3,
+        "mw": 55,
+        "water_stress": 3.6,
+        "carbon_gco2_kwh": 753,
+        "risk_score": 0.831
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.633,
+          -23.55
+        ]
+      },
+      "properties": {
+        "name": "Equinix SP2",
+        "city": "S\u00e3o Paulo",
+        "country": "Brazil",
+        "tier": 4,
+        "mw": 140,
+        "water_stress": 1.7,
+        "carbon_gco2_kwh": 107,
+        "risk_score": 0.237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.173,
+          -22.906
+        ]
+      },
+      "properties": {
+        "name": "Equinix RJ1",
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "tier": 3,
+        "mw": 80,
+        "water_stress": 1.7,
+        "carbon_gco2_kwh": 107,
+        "risk_score": 0.237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.416,
+          -34.614
+        ]
+      },
+      "properties": {
+        "name": "Nabiax BUE",
+        "city": "Buenos Aires",
+        "country": "Argentina",
+        "tier": 3,
+        "mw": 65,
+        "water_stress": 2.4,
+        "carbon_gco2_kwh": 289,
+        "risk_score": 0.421
+      }
+    }
+  ]
+}
